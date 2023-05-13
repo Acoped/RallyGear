@@ -1,0 +1,19 @@
+{
+  "domElement": "<rally-gear></rally-gear>",
+  "name": "Rally Gear",
+  "types": [
+    "ui.apps.categories.vehicle_info"
+  ],
+  "description": "Displays current manual gear.",
+  "css": {
+    "left": "10px",
+    "height": "150px",
+    "width": "150px",
+    "min-width": "120px",
+    "min-height": "120px",
+    "top": "50px"
+  },
+  "author": "Acoped",
+  "version": "0.1",
+  "directive": "rallyGear"
+}
