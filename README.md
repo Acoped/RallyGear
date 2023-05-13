@@ -6,6 +6,8 @@ This is a simplistic easy-to-read gear indicator for BeamNG, inspired by 7-segme
 
 Currently supports manual transmission only.
 
+![Rally Gear Screenshot](main.png)
+
 Font, font-size, color and text-shadow are customizable within the below section of `app.js`:
 
 ```Javascript
